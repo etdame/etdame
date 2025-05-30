@@ -1,16 +1,25 @@
-## Hi there 👋
+## Experience
 
-<!--
-**etdame/etdame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High-functioning architect of algorithmic curiosity with a demonstrated history of deploying predictive rituals and tabular sorcery to summon meaning from numerical chaos. Former lead of ephemeral pipeline stabilization at the Institute for Accidental Insights, where I pioneered asynchronous confusion in multi-cloud environments using only Python, determination, and a handful of forgotten SQL joins.
 
-Here are some ideas to get you started:
+I operate somewhere between machine learning engineering, data analysis, and data engineering—with an ongoing effort to make these intelligible (and occasionally beautiful) via modern web technologies (Svelte) and mobile interfaces (Dart, Flutter).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Currently Learning
+
+    Probabilistic optimism in data lakes
+
+    Recursive error propagation (as a lifestyle choice)
+
+    Dart-throwing mobile engineering (Flutter)
+
+    Interactive illusions with SvelteKit
+
+    Vectorized regret minimization
+
+    End-to-end confusion pipelines (with optional dashboards)
+
+    The exact moment your model "just vibes" instead of generalizing
+
+## Career Philosophy
+
+By the time AI conquers the world, I hope to make enough money for a white grand piano.
