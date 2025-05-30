@@ -4,8 +4,6 @@ High-functioning architect of algorithmic curiosity with a demonstrated history 
 
 I operate somewhere between machine learning engineering, data analysis, and data engineering — with an ongoing effort to make these intelligible (and occasionally beautiful) via modern web technologies (Svelte) and mobile interfaces (Dart, Flutter). 
 
----
-
 ## 🧠 Currently Learning
 
 - Probabilistic optimism in data lakes  
@@ -15,8 +13,6 @@ I operate somewhere between machine learning engineering, data analysis, and dat
 - The exact moment your model "just vibes" instead of generalizing
 - Dart-throwing mobile engineering (Flutter)  
 - Interactive illusions with SvelteKit  
-
----
 
 ## 🎹 Career Philosophy
 
