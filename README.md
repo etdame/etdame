@@ -10,11 +10,11 @@ I operate somewhere between machine learning engineering, data analysis, and dat
 
 - Probabilistic optimism in data lakes  
 - Recursive error propagation (as a lifestyle choice)  
-- Dart-throwing mobile engineering (Flutter)  
-- Interactive illusions with SvelteKit  
 - Vectorized regret minimization  
 - End-to-end confusion pipelines (with optional dashboards)  
-- The exact moment your model "just vibes" instead of generalizing  
+- The exact moment your model "just vibes" instead of generalizing
+- Dart-throwing mobile engineering (Flutter)  
+- Interactive illusions with SvelteKit  
 
 ---
 
