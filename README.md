@@ -2,8 +2,6 @@
 
 High-functioning architect of algorithmic curiosity with a demonstrated history of deploying predictive rituals and tabular sorcery to summon meaning from numerical chaos. Former lead of ephemeral pipeline stabilization at the Institute for Accidental Insights, where I pioneered asynchronous confusion in multi-cloud environments using only Python, determination, and a handful of forgotten SQL joins.
 
-I operate somewhere between machine learning engineering, data analysis, and data engineering — with an ongoing effort to make these intelligible (and occasionally beautiful) via modern web technologies (Svelte) and mobile interfaces (Dart, Flutter). 
-
 ## 🧠 Currently Learning
 
 - Probabilistic optimism in data lakes  
