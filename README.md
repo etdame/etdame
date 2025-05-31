@@ -12,6 +12,6 @@ High-functioning architect of algorithmic curiosity with a demonstrated history 
 - Dart-throwing mobile engineering (Flutter)  
 - Interactive illusions with SvelteKit  
 
-# 🎹 Career Philosophy
+# 🎹 Career Philosoph
 
 **By the time AI conquers the world, I hope to make enough money for a white grand piano.**
