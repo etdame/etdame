@@ -8,7 +8,7 @@ High-functioning architect of algorithmic curiosity with a demonstrated history 
 - Recursive error propagation (as a lifestyle choice)  
 - Vectorized regret minimization  
 - End-to-end confusion pipelines (with optional dashboards)  
-- The exact moment your model "just vibes" instead of generalizing
+- The exact moment your model just vibes instead of generalizing
 - Dart-throwing mobile engineering (Flutter)  
 - Interactive illusions with SvelteKit  
 
